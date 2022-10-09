@@ -13,5 +13,5 @@ elif op == "*":
 
 
 print(result)
-print ("That's your result!")
+print ("That's your result!\n")
 print ("Thanks for using my calculator. Bye for now")
