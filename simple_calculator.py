@@ -14,3 +14,4 @@ elif op == "*":
 
 print(result)
 print ("That's your result!")
+print ("Thanks for using my calculator. Bye for now")
